@@ -1,0 +1,9 @@
+D:/rm_repos/serial_port/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/serial_port.dir
+D:/rm_repos/serial_port/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/rm_repos/serial_port/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/rm_repos/serial_port/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/rm_repos/serial_port/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/rm_repos/serial_port/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/rm_repos/serial_port/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/rm_repos/serial_port/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/serial_port_autogen_timestamp_deps.dir
+D:/rm_repos/serial_port/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/serial_port_autogen.dir
